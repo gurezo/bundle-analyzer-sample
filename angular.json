@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bundle-analyzer-sample"
+    }
+  },
+  "defaultProject": "bundle-analyzer-sample",
+  "cli": {
+    "analytics": "ec7f3301-dd0f-4893-9aa4-64a78caf2749"
+  }
 }
