@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build --prod",
     "build:stats": "ng build --prod --stats-json",
-    "bundle-stats": "webpack-bundle-analyzer dist/stats-es2015.json",
+    "bundle-stats": "webpack-bundle-analyzer dist/stats.json",
     "build:spec": "tsc --project tsconfig.spec.json",
     "test": "ng test",
     "lint": "ng lint",
